@@ -1,0 +1,27 @@
+/* FormComponent.css */
+.form-component-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.form-component-container label {
+  margin-bottom: 10px;
+}
+
+.form-component-container select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+
+.form-component-container textarea {
+  width: 227%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  height: 300px; /* Set the desired height for the textarea */
+}

@@ -1,0 +1,27 @@
+/* App.css */
+
+.app-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.form-container,
+.result-container {
+  width: 45%;
+  border: 1px solid #ccc; /* Add borders to both containers */
+  padding: 10px;
+}
+
+.form-container {
+  /* border-right: none; Remove right border for the form container */
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  border-width: 1px;
+}
+
+/* Add any other styling you need */
