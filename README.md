@@ -1,5 +1,5 @@
 # Sigma Query Generator
-  A demo instance of this project is running at https://sigma-query-generator.netlify.app/
+  A demo instance of this project is running at https://siem-query-generator.netlify.app/
   
   **Please note that the website might take some time to load as it's flask-backend is hosted on a free instance of Render, which enters sleep mode after 30 minutes of inactivity.**
 
